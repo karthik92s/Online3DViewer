@@ -79,6 +79,7 @@
 		"draco3d": "1.5.5",
 		"fflate": "0.7.4",
 		"occt-import-js": "0.0.15",
+		"online-3d-viewer": "^0.8.21",
 		"rhino3dm": "7.15.0",
 		"three": "0.149.0",
 		"web-ifc": "0.0.35"
